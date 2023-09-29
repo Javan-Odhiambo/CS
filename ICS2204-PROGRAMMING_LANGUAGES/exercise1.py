@@ -1,4 +1,9 @@
 #! /usr/bin/python3
+"""
+Author: Javan Odhiambo Otieno
+Reg: sct211-0098/2022
+""" 
+
 
 def simple_addition_calculator():
     name = input("Enter your name: ").capitalize()
